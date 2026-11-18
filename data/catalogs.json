@@ -1,0 +1,2309 @@
+{
+  "careers": [
+    {
+      "code": "AR",
+      "name": "Automatización y Robótica"
+    },
+    {
+      "code": "II",
+      "name": "Ingeniería Industrial"
+    },
+    {
+      "code": "SW",
+      "name": "Software"
+    },
+    {
+      "code": "TI",
+      "name": "Tecnologías de la Información"
+    },
+    {
+      "code": "TEL",
+      "name": "Telecomunicaciones"
+    }
+  ],
+  "ra": {
+    "II": [
+      {
+        "code": "RA1",
+        "description": "Interpretarán y aplicarán las técnicas y tecnologías más adecuadas en las condiciones ecuatorianas que contribuyan a alcanzar la eficiencia, eficacia y competitividad de la organización, así como el desarrollo sostenible, especialmente en la optimización de recursos, los ahorros energéticos y en la preservación del ecosistema"
+      },
+      {
+        "code": "RA2",
+        "description": "Serán capaces de examinar los procesos con un enfoque cultural, social, político, económico, ambiental y tecnológico sustentado en la primacía de los intereses sociales y nacionales sobre los particulares y con actuaciones éticas y morales propias de un Ingeniero Industrial comprometido con la sociedad y su país."
+      },
+      {
+        "code": "RA3",
+        "description": "Aplicarán en su práctica profesional el cumplimiento riguroso de las legislaciones, normativas y código de conducta demostrando capacidades para la comunicación oral y escrita."
+      },
+      {
+        "code": "RA4",
+        "description": "Diseñarán soluciones con rigor científico que demuestren sus capacidades de razonamiento y creatividad; además diagnosticarán las situaciones existentes y los posibles escenarios futuros de realización con el rigor metodológico que las investigaciones de su campo de acción requieren."
+      },
+      {
+        "code": "RA5",
+        "description": "Serán capaces de gestionar y operar los procesos en organizaciones de la producción y los servicios en toda la cadena de suministro, aprovisionamiento-transportación producción-venta-servicios posventa con enfoque integrador y sistémico."
+      },
+      {
+        "code": "RA6",
+        "description": "Obtendrán y realizarán valoraciones de la información científica y técnica necesaria en los idiomas de español e inglés apoyándose en la utilización de los recursos informáticos que se generan sistemáticamente"
+      },
+      {
+        "code": "RA7",
+        "description": "Identifica los problemas Industriales y organizacionales desde una perspectiva económico- financiera y administrativa, para proponer alternativas de solución, ejecutar y evaluar los mismos, atendiendo a las tendencias y normativas internacionales, así como a la demanda social."
+      },
+      {
+        "code": "RA8",
+        "description": "Gestiona sistemas de planeación y control de producción de bienes Industriales orientados a la satisfacción de los clientes, con miras al logro de máximos niveles de productividad, competitividad y protección ambiental."
+      },
+      {
+        "code": "RA9",
+        "description": "Gestiona sistemas de automatización de procesos Industriales y mecatrónicos, para optimizar recursos en la producción, utilizando nuevas tecnologías con altos niveles de calidad y protección ambiental."
+      },
+      {
+        "code": "RA10",
+        "description": "Desarrollan sistemas eléctricos y electrónicos de control de procesos, utilizando dispositivos analógicos, digitales y de potencia; para optimizar los sistemas automatizados reduciendo al máximo el consumo de energía."
+      },
+      {
+        "code": "RA11",
+        "description": "Gestiona procesos integrados de manufactura utilizando paquetes computacionales y máquinas Industriales, para diseñar y producir bienes Industriales con precisión y calidad."
+      },
+      {
+        "code": "RA12",
+        "description": "Implanta sistemas de mantenimiento y seguridad Industrial, para mejorar los niveles de eficiencia y productividad, protegiendo el recurso humano, y en atención a la normatividad establecida."
+      },
+      {
+        "code": "RA13",
+        "description": "Indagación, interpretación, argumentación y sistematización de la información y las prácticas, permitiéndoles a los profesionales en formación de Ingeniería Industrial."
+      },
+      {
+        "code": "RA14",
+        "description": "Investigación de diferentes aspectos socio, técnicos, productivos, ambientales, económicos, entre los relevantes."
+      },
+      {
+        "code": "RA15",
+        "description": "Resolución de problemas matemáticos, técnicos, aplicando los conocimientos adquiridos a lo largo de su formación."
+      },
+      {
+        "code": "RA16",
+        "description": "Pensamiento sistémico, de tal manera percibir el mundo real en términos de totalidades para su análisis, comprensión y accionar."
+      },
+      {
+        "code": "RA17",
+        "description": "Planificación y gestión por procesos de tal manera de optimizar los recursos de la organización incrementando su productividad."
+      },
+      {
+        "code": "RA18",
+        "description": "Gestión del conocimiento, transferir los conocimientos y/o experiencias de temas puntales que favorezcan a la organización y a sus colaboradores."
+      },
+      {
+        "code": "RA19",
+        "description": "Trabajo en grupos colaborativos, mediante esta estrategia de enseñanza-aprendizaje organiza grupos pequeños trabajo para capacitar, enseñar nuevos conocimientos en beneficio de la organización o comunidad dependiendo el caso."
+      },
+      {
+        "code": "RA20",
+        "description": "Gestión del Talento Humano, conocimiento para una mejor selección del nuevo personal que se integrará a la organización, de tal manera buscar el mejor perfil que se identifique con la misma, teniendo en cuenta su formación, capacitación, aptitudes y actitud."
+      },
+      {
+        "code": "RA21",
+        "description": "Genera y evalúa proyectos o aplicaciones Industriales y de inversión en el sector público y privado, a través del diseño, ejecución, control y evaluación del mismo, determinando su factibilidad económica, técnica, social y ambiental."
+      },
+      {
+        "code": "RA22",
+        "description": "Planifica, ejecuta, verifica y evalúa los métodos de trabajo, a nivel de organismos e instituciones públicas y privadas, mediante el estudio de la base teórica de los métodos de trabajo, simulación y definición de las medidas preventivas en cuanto a materia de seguridad laboral, buscando la maximización del bienestar de los miembros de la organización dentro de entorno de trabajo."
+      },
+      {
+        "code": "RA23",
+        "description": "Realiza análisis de factores de riesgos que pueden afectar la integridad de los colaboradores de una organización en los sectores públicos y privados, mediante el análisis y evaluación por métodos cualitativos y cuantitativos, para definir las acciones correctivas a efectuar en la fuente, medio o persona siguiendo una metodología específica."
+      },
+      {
+        "code": "RA24",
+        "description": "Gerencia procesos Industriales en el sector público y privado, mediante la planificación, ejecución, control y evaluación desempeño de los departamentos que conforman la organización para maximizar los resultados de la empresa en un período determinado."
+      },
+      {
+        "code": "RA25",
+        "description": "Desarrolla consultoría y asesoría técnica en el sector público y privado, elaborando y/o revisando los proyectos acordes a las necesidades del cliente, mediante un diagnóstico inicial, planificación y ejecución, a fin de elaborar el informe preliminar y final con los productos y resultados esperados por el requirente."
+      },
+      {
+        "code": "RA26",
+        "description": "Investiga la realidad y dinámica de los procesos de la organización, mediante el estudio de la base teórica de la problemática, la selección, utilización e interpretación de indicadores locales, regionales, nacionales e internacionales."
+      },
+      {
+        "code": "RA27",
+        "description": "Propone planes en lo público y privado, a nivel empresarial, local y regional mediante el diagnóstico de necesidades, definiendo ejes estratégicos, recursos, objetivos y metas, para contribuir al crecimiento y desarrollo sostenible de la economía y la sociedad."
+      }
+    ],
+    "AR": [
+      {
+        "code": "RA1",
+        "description": "Aplica  herramientas  de  la   información  y  comunicación  en diferentes ámbitos con el fin de obtener soluciones para la optimización de recursos"
+      },
+      {
+        "code": "RA2",
+        "description": "Interpreta  conceptos  sobre  las  leyes  generales  de  la  física, campos,  ondas  y  electromagnetismo  y  su  aplicación  para  la resolución de problemas propios de la ingeniería."
+      },
+      {
+        "code": "RA3",
+        "description": "Capacidad   para   identificar   problemas   y   oportunidades   de mejora, generar ideas y definir los escenarios adecuados para convertirlos en realidad a través del proceso de creación de proyectos de base tecnológica"
+      },
+      {
+        "code": "RA4",
+        "description": "Distingue el impacto de las actividades industriales sobre el medio ambiente y el trabajador en un entorno seguro direccionado al desarrollo sostenible"
+      },
+      {
+        "code": "RA5",
+        "description": "Interpreta    datos    representativos    en    el    campo    de    la automatización y robótica para emitir juicios que incluyan una reflexión sobre temas relevantes de índole social, científica o ética"
+      },
+      {
+        "code": "RA6",
+        "description": "Valora las necesidades de automatización en la industria para estructurar una propuesta de ejecución de nuevos proyectos optimizando los recursos de su zona de influencia."
+      },
+      {
+        "code": "RA7",
+        "description": "Modela  sistemas  mecánicos,  eléctricos,  de  fluidos  y  térmicos mediante software especializado permitiendo representar sus características matemáticas y de proceso"
+      },
+      {
+        "code": "RA8",
+        "description": "Gestiona  proyectos  tecnológicos  de  servicios,  fabricación  y mantenimiento en el contexto de la automatización y robótica"
+      },
+      {
+        "code": "RA9",
+        "description": "Construye   dispositivos,    equipos    y   máquinas    a    partir    del modelamiento y simulación de mecanismos"
+      },
+      {
+        "code": "RA10",
+        "description": "Aplica  herramientas  de  hardware  y  software  para  modelar sistemas y abordar problemas existentes en la industria."
+      },
+      {
+        "code": "RA11",
+        "description": "Resuelve problemas relacionados con la ingeniería planeando algoritmos, así como su codificación en un lenguaje de programación"
+      },
+      {
+        "code": "RA12",
+        "description": "Resuelve problemas sobre la cinemática y dinámica de sistemas mecánicos, mediante la esquematización de variables involucradas, la modelización de sistemas y la búsqueda de alternativas"
+      },
+      {
+        "code": "RA13",
+        "description": "Soluciona problemas en base a los principios y teorías del cálculo y matemáticas, a través del método científico para sustentar la toma de decisiones en el ámbito tecnológico"
+      },
+      {
+        "code": "RA14",
+        "description": "Aplica     conocimientos     de     mecánica,     diseño,     eléctrica, electrónica, programación, control y automatización en el diseño de equipos robotizados con estándares de calidad"
+      },
+      {
+        "code": "RA15",
+        "description": "Desarrolla soluciones de automatización de procesos productivos y servicios mediante la incorporación sinérgica de elementos mecánicos, eléctricos, electrónicos, control y sistemas robóticos para incrementar la productividad y calidad del proceso y producto"
+      },
+      {
+        "code": "RA16",
+        "description": "Aplica  bases  teóricas,  metodológicas  y  tecnológicas  para  la formulación de proyectos utilizando conocimientos de la Industria 4.0, pirámide de automatización, IoT, redes neuronales, entre otros, con base en los requerimientos del proceso"
+      },
+      {
+        "code": "RA17",
+        "description": "Identifica  oportunidades  de  mejora  mediante  metodologías, herramientas de diseño, simulación y manufactura para brindar soluciones tecnológicas innovadoras a las necesidades de los procesos productivos y servicios industriales"
+      },
+      {
+        "code": "RA18",
+        "description": "Automatiza procesos de producción industrial empleando criterios de selección de equipos y programación basada en estándares que se ajusten a la estructura del proceso y a su prospectiva orientados a la integración robótica."
+      },
+      {
+        "code": "RA19",
+        "description": "Resuelve   problemas   contemporáneos   (ambientales,   sociales, culturales y económicos) para contribuir al tejido social y al desarrollo económico con base en la responsabilidad social  y ambiental"
+      },
+      {
+        "code": "RA20",
+        "description": "Mejora  la  calidad  de  vida  de  la  población  afín  al  proceso productivo mediante la inclusión robótica, permitiendo una producción basada en estándares de calidad, mejorando oportunidades laborales y económicas de los entes beneficiarios de un proceso tecnológico, disminuyendo desperdicios y contaminación"
+      }
+    ],
+    "SW": [
+      {
+        "code": "RA1",
+        "description": "Examinarán los procesos con un enfoque cultural, social, político, económico, ambiental y tecnológico sustentado en la primacía de los intereses sociales y nacionales sobre los particulares y con actuaciones éticas y morales."
+      },
+      {
+        "code": "RA2",
+        "description": "Aplicarán en su práctica profesional el cumplimiento riguroso de las legislaciones, normas y código de conducta demostrando capacidades para la comunicación oral y escrita."
+      },
+      {
+        "code": "RA3",
+        "description": "Interpretarán y aplicarán las nuevas tecnologías y metodologías de desarrollo de software más adecuadas en las condiciones ecuatorianas que contribuyan a alcanzar la eficiencia, eficacia, competitividad y desarrollo de la organización, sostenible, especialmente en el manejo de procesos tecnológicos ayudando a la preservación del ecosistema."
+      },
+      {
+        "code": "RA4",
+        "description": "Diseñarán soluciones con lineamientos investigativos y científico que demuestren las capacidades de razonamiento y creatividad; además analizar escenarios futuros para la realización de las investigaciones de su campo de acción requieren."
+      },
+      {
+        "code": "RA5",
+        "description": "Realizarán valoraciones de la información científica y técnica necesaria en los diferentes idiomas especialmente en español e inglés apoyándose en la utilización de los recursos informáticos que se generan sistemáticamente."
+      },
+      {
+        "code": "RA6",
+        "description": "Alcanzarán con su auto superación y el trabajo en equipo, el desarrollo profesional acorde con las exigencias de la sociedad y el contexto en que se enmarca."
+      },
+      {
+        "code": "RA7",
+        "description": "Serán capaces de analizar e identificar problemas de ingeniería, reconocer sus especificaciones, establecer diferentes métodos de resolución y seleccionar el más adecuado para su solución, teniendo en cuenta los aspectos éticos, legales, de seguridad y responsabilidad profesional, así como también las limitaciones sociales, de salud humana, medio ambiente, y comerciales aplicables en cada caso."
+      },
+      {
+        "code": "RA8",
+        "description": "Tendrán las capacidades necesarias para la práctica de la ingeniería en la sociedad actual."
+      },
+      {
+        "code": "RA9",
+        "description": "El egresado tendrá las capacidades de trabajar de forma efectiva tanto individualmente como en equipo, mostrando habilidades de comunicación y coordinación de equipos."
+      },
+      {
+        "code": "RA10",
+        "description": "Serán capaces de utilizar distintos métodos para comunicarse de forma efectiva con la comunidad de ingenieros y con la sociedad en general."
+      },
+      {
+        "code": "RA11",
+        "description": "Serán capaces de demostrar conciencia sobre la responsabilidad de la práctica de la ingeniería, el impacto social y ambiental, y compromiso con la ética profesional, responsabilidad y normas de la práctica de la ingeniería."
+      },
+      {
+        "code": "RA12",
+        "description": "Serán capaces de demostrar conciencia de las prácticas empresariales y de gestión de proyectos, así como la gestión y el control de procesos, y entender sus limitaciones."
+      },
+      {
+        "code": "RA13",
+        "description": "Serán capaces de usar métodos apropiados para realizar investigación y llevar a cabo aportaciones innovadoras en el ámbito de la Ingeniería de desarrollo de software."
+      },
+      {
+        "code": "RA14",
+        "description": "Analizar el impacto local y global de las nuevas tecnologías sobre individuos, organizaciones y la sociedad para garantizar el buen vivir de la sociedad"
+      },
+      {
+        "code": "RA15",
+        "description": "Identificar y analizar las necesidades de usuarios para la selección, creación, evaluación, y administración de sistemas computacionales."
+      },
+      {
+        "code": "RA16",
+        "description": "Los ingenieros de software deben hacer análisis, especificación, diseño, desarrollo, pruebas y mantenimiento del software que garantice calidad en la profesión."
+      },
+      {
+        "code": "RA17",
+        "description": "Evalúa los requisitos de software que cubren las necesidades del cliente equilibrando costo, tiempo, integración de sistemas y características de la organización."
+      },
+      {
+        "code": "RA18",
+        "description": "Diseña procesos de adquisición, organización y presentación de datos, válidos para la predicción de nuevos escenarios y la toma eficiente de decisiones, basados en patrones arquitectónicos y estándares de desarrollo de software"
+      },
+      {
+        "code": "RA19",
+        "description": "Modela software basado en los requerimientos de base de datos y redes."
+      },
+      {
+        "code": "RA20",
+        "description": "Emplea el paradigma de orientación a servicios teniendo en cuenta la administración, configuración y gestión de pruebas de software para el desarrollo de aplicaciones distribuidas."
+      },
+      {
+        "code": "RA21",
+        "description": "Aplica tecnologías cloud, técnicas de seguridad y procesos de auditoría de vulnerabilidades en el desarrollo de soluciones informáticas."
+      },
+      {
+        "code": "RA22",
+        "description": "Utiliza los conocimientos científicos básicos sobre los que se fundamenta la carrera."
+      },
+      {
+        "code": "RA23",
+        "description": "Capacidad de análisis y síntesis, capacidad de generar nuevas ideas (creatividad), habilidades de investigación."
+      },
+      {
+        "code": "RA24",
+        "description": "Identifica y diagnostica las causas del problema, analiza, traduce sin ambigüedades en una propuesta operativa para su resolución tomando en cuenta la información disponible, con el fin de determinar los objetivos, identificar restricciones en el problema, establecer criterios para su aceptación y aprobación de las soluciones."
+      },
+      {
+        "code": "RA25",
+        "description": "Evalúa la factibilidad de las distintas alternativas o soluciones propuestas considerando las restricciones establecidas con el fin de determinar objetivamente el valor relativo de las alternativas factibles o de las soluciones propuestas de acuerdo con los criterios de evaluación comunicar de forma documentada estas propuestas."
+      },
+      {
+        "code": "RA26",
+        "description": "Identifica un problema a través de la aplicación de un conjunto de principios que pueden conducir a plantearse interrogantes, y de situaciones derivadas de la práctica que inducen a investigar un problema. Plantea científicamente el problema y expresar cuales son las variables de mayor relevancia a ser analizadas."
+      },
+      {
+        "code": "RA27",
+        "description": "Verifica los valores de las variables consideradas para la resolución del problema y como se relacionan unas con otras y poner en práctica los medios para lograr la transformación deseada."
+      },
+      {
+        "code": "RA28",
+        "description": "Capacidad para trabajar en un equipo interdisciplinario·"
+      },
+      {
+        "code": "RA29",
+        "description": "Trabaja conjuntamente con otros para un mismo fin o trabajo en equipo mediante el intercambio de información para conocimiento de otros miembros del grupo."
+      },
+      {
+        "code": "RA30",
+        "description": "Capacidad de adaptación a nuevas situaciones; las habilidades interpersonales"
+      },
+      {
+        "code": "RA31",
+        "description": "Establece líneas estratégicas desde el punto de vista de su campo profesional para la consecución de los objetivos y metas del proyecto trabajo que realiza como parte de un equipo multidisciplinario y la ejecución de las tareas relacionadas a la estrategia."
+      },
+      {
+        "code": "RA32",
+        "description": "Resuelve conflictos, cuando se manifiestan tendencias contradictorias en el equipo, capaces de generar problemas, enfrentamientos y discusiones que no permitan el desarrollo adecuado del proyecto o trabajo del equipo."
+      },
+      {
+        "code": "RA33",
+        "description": "Capacidad crítica y autocrítica; la toma de decisiones·"
+      },
+      {
+        "code": "RA34",
+        "description": "Demuestra actitud positiva frente a dilemas éticos en el campo de la profesión."
+      },
+      {
+        "code": "RA35",
+        "description": "Acepta las consecuencias de sus actos en sus relaciones profesionales con el estado, con personas, con objetos o productos, en situaciones de dilemas éticos en el campo de la profesión."
+      },
+      {
+        "code": "RA36",
+        "description": "Conoce los códigos profesionales, que lo obligan legal y moralmente a aplicar sus conocimientos de forma que beneficien a sus clientes y a la sociedad en general, sin causar ningún perjuicio."
+      },
+      {
+        "code": "RA37",
+        "description": "El conocimiento de un segundo idioma; La comunicación oral y escrita en su idioma nativo."
+      },
+      {
+        "code": "RA38",
+        "description": "Utiliza con efectividad la comunicación escrita realizada a través de informes, documentos de trabajo, etc."
+      },
+      {
+        "code": "RA39",
+        "description": "Utiliza con efectividad la comunicación oral realizada a través de ponencias, exposiciones o en reuniones de trabajo"
+      },
+      {
+        "code": "RA40",
+        "description": "Elementales conocimientos de informática (procesamiento de textos, base de datos) ·"
+      },
+      {
+        "code": "RA41",
+        "description": "Utiliza con efectividad la comunicación a través de medios digitales utilizando las nuevas tecnologías y técnicas de desarrollo de software para manejo de información."
+      },
+      {
+        "code": "RA42",
+        "description": "Utiliza como complementario el idioma el inglés u otro para realizar actividades tecnológicas."
+      },
+      {
+        "code": "RA43",
+        "description": "Desarrolla actitudes de transformación profesional con el compromiso del aprendizaje a lo largo de la vida. Identifica y reconoce las oportunidades de aprendizaje necesarias para el desarrollo y mejoramiento continuo en el campo de conocimiento relacionado a su profesión y para establecer y seguir sus propias estrategias a nivel general para continuar aprendiendo a lo largo de su vida."
+      },
+      {
+        "code": "RA44",
+        "description": "Apreciación de la diversidad y la multiculturalidad"
+      },
+      {
+        "code": "RA45",
+        "description": "Demuestra interés con respecto a la realidad actual a niveles local, nacional o internacional vinculados a la carrera y a la profesión."
+      },
+      {
+        "code": "RA46",
+        "description": "Indagación, interpretación, argumentación y sistematización de la información y los procesos a ser resueltos para automatizarlos."
+      },
+      {
+        "code": "RA47",
+        "description": "Investigación de las nuevas tecnologías para ayudar a mejorar el ambiente de aprendizaje colaborativo."
+      },
+      {
+        "code": "RA48",
+        "description": "Resolución de problemas de la vida real y cotidiana para manipular procesos automáticamente"
+      },
+      {
+        "code": "RA49",
+        "description": "Planificación y gestión por procesos para realizar de manera ordenada y sistemática los procesos."
+      },
+      {
+        "code": "RA50",
+        "description": "Gestión del conocimiento para desarrollar capacidades y habilidades de un Ingeniero en Software"
+      },
+      {
+        "code": "RA51",
+        "description": "Trabaja conjuntamente con otros para un mismo fin o trabajo en equipo mediante el intercambio de información para conocimiento de otros miembros del grupo."
+      },
+      {
+        "code": "RA52",
+        "description": "Gestión del talento humano para saber tratar con la sociedad y poder trabajar en grupos de personas."
+      },
+      {
+        "code": "RA53",
+        "description": "Formula proyectos bajo estándares, paradigmas y metodologías para asegurar la calidad del producto."
+      },
+      {
+        "code": "RA54",
+        "description": "Realizar proyectos de infraestructura y desarrollo de procesos de la Información para la implementación eficaz de soluciones empleando los recursos disponibles en la organización."
+      },
+      {
+        "code": "RA55",
+        "description": "Dirigir el proceso de implementación e investigación de proyectos mediante su correcta ejecución para alcanzar las metas y objetivos empleando habilidades gerenciales."
+      },
+      {
+        "code": "RA56",
+        "description": "Analizar críticamente los procesos de los negocios, identificando problemas."
+      },
+      {
+        "code": "RA57",
+        "description": "Evaluar requerimientos de información, para proponer soluciones informáticas a través de la investigación."
+      },
+      {
+        "code": "RA58",
+        "description": "Gestionar proyectos de desarrollo de software con creatividad."
+      },
+      {
+        "code": "RA59",
+        "description": "Desde el enfoque administrativo, identificar, planear, integrar y administrar la infraestructura tecnológica necesaria para asegurar la operación continua de las organizaciones en ambientes globalizados y el buen funcionamiento de los sistemas."
+      },
+      {
+        "code": "RA60",
+        "description": "Diseñar arquitecturas de información que permitan lograr la integración entre las diferentes áreas funcionales de la organización."
+      },
+      {
+        "code": "RA61",
+        "description": "Fundamentos de las actividades tanto de gestión como integrales del ciclo de vida del software. Dominio de notaciones, técnicas, métodos y herramientas para la realización de las mismas."
+      },
+      {
+        "code": "RA62",
+        "description": "Conocimiento de aspectos profesionales de la Ingeniería del Software."
+      },
+      {
+        "code": "RA63",
+        "description": "Comprensión de la importancia de abordar las cuestiones de accesibilidad universal, ergonomía, usabilidad, internacionalización, seguridad, adecuación a la legislación, normativa y estándares vigentes de los sistemas, aplicaciones y servicios informáticos, así como de la información que proporcionan, durante el diseño y desarrollo de los mismos."
+      },
+      {
+        "code": "RA64",
+        "description": "Conocer y comprender los conceptos básicos y principios de la Ingeniería del Software."
+      },
+      {
+        "code": "RA65",
+        "description": "Conocer de la situación actual de los sistemas de información y los métodos y herramientas existentes."
+      },
+      {
+        "code": "RA66",
+        "description": "Diferenciar los conceptos de metodología, ciclo de vida y proceso software y aprender a aplicar el más adecuado a cada proyecto software."
+      },
+      {
+        "code": "RA67",
+        "description": "Conseguir que el estudiante sea capaz de participar eficientemente en todas las fases y actividades de un proyecto software, en especial, en las actividades integrales."
+      },
+      {
+        "code": "RA68",
+        "description": "Definir una disciplina que garantice la producción sistemática y el mantenimiento de los productos software desarrollados en el plazo fijado y dentro del coste estimado"
+      },
+      {
+        "code": "RA69",
+        "description": "Aprender destrezas para reducir el coste y mejorar la calidad de los procesos y productos software."
+      },
+      {
+        "code": "RA70",
+        "description": "Estudiar las actividades protectoras (aseguramiento de calidad, gestión de configuraciones) que se han de realizar durante el proceso de desarrollo y mantenimiento del software."
+      }
+    ],
+    "TI": [
+      {
+        "code": "RA1",
+        "description": "Aplica tecnologías informáticas para diseñar, desarrollar, seleccionar y evaluar aplicaciones y sistemas informáticos, asegurando su fiabilidad, seguridad y calidad, conforme a los principios éticos y a la legislación y normativa vigente"
+      },
+      {
+        "code": "RA2",
+        "description": "Diseñarán soluciones con lineamientos investigativos y científico que demuestren las capacidades de razonamiento y creatividad; además analizar escenarios futuros para la realización de las investigaciones de su campo de acción requieren"
+      },
+      {
+        "code": "RA3",
+        "description": "Serán capaces de demostrar conciencia de las prácticas empresariales y de gestión de proyectos, así como la gestión y el control de procesos, y entender sus limitaciones."
+      },
+      {
+        "code": "RA4",
+        "description": "Tendrán las capacidades necesarias para la práctica de la ingeniería en la sociedad actual. El egresado tendrá las capacidades de trabajar de forma efectiva tanto individualmente como en equipo, mostrando habilidades de comunicación y coordinación de equipos."
+      },
+      {
+        "code": "RA5",
+        "description": "Serán capaces de demostrar conciencia sobre la responsabilidad de la práctica de la ingeniería, el impacto social y ambiental, y compromiso con la ética profesional, responsabilidad y normas de la práctica de la ingeniería"
+      },
+      {
+        "code": "RA6",
+        "description": "Interpretarán y aplicarán las tecnologías de la información más adecuadas en las condiciones ecuatorianas que contribuyan a alcanzar la eficiencia, eficacia, competitividad y desarrollo de la organización, sostenible, especialmente en el manejo de procesos tecnológicos ayudando a la preservación del ecosistema."
+      },
+      {
+        "code": "RA7",
+        "description": "Lidera emprendimiento e innovación, de productos y servicios tecnológicos, de forma creativa e independiente, para negociar sus proyectos, productos, así como generar su propia empresa."
+      },
+      {
+        "code": "RA8",
+        "description": "Adquiere una visión global a corto y mediano plazos sobre los aspectos sociales, económicos, tecnológicos y ambientales vinculados al ejercicio de la profesión."
+      },
+      {
+        "code": "RA9",
+        "description": "Serán capaces de usar métodos apropiados para realizar investigación y llevar a cabo aportaciones innovadoras en el ámbito de la Ingeniería en Tecnologías de la Información"
+      },
+      {
+        "code": "RA10",
+        "description": "Analizan el impacto local y global de las tecnologías de la información sobre individuos, organizaciones y la sociedad para garantizar el buen vivir de la sociedad."
+      },
+      {
+        "code": "RA11",
+        "description": "Identificar y analizar las necesidades de usuarios para la selección, creación, evaluación, y administración de sistemas Computacionales"
+      },
+      {
+        "code": "RA12",
+        "description": "Aplicarán en su práctica profesional el cumplimiento riguroso de las legislaciones, normas y código de conducta demostrando capacidades para la comunicación oral y escrita."
+      },
+      {
+        "code": "RA13",
+        "description": "Serán capaces de utilizar distintos métodos para comunicarse de forma efectiva con la comunidad de ingenieros y con la sociedad en general."
+      },
+      {
+        "code": "RA14",
+        "description": "Serán capaces de examinar los procesos con un enfoque cultural, social, político, económico, ambiental y tecnológico sustentado en la primacía de los intereses sociales y nacionales sobre los particulares y con actuaciones éticas y morales propias de un Ingeniero en Tecnologías de la Información comprometido con la sociedad y su país"
+      },
+      {
+        "code": "RA15",
+        "description": "Conoce las características, funcionalidades y estructuras de sistemas distribuidos, redes de computadores e Internet, que permitan su adecuado uso, administración y el diseño e implementación de aplicaciones basadas en ellos."
+      },
+      {
+        "code": "RA16",
+        "description": "Identifica y diagnostica las causas del problema, analiza, traduce sin ambigüedades en una propuesta operativa para su resolución tomando en cuenta la información disponible, con el fin de determinar los objetivos, identificar restricciones en el problema, establecer criterios para su aceptación y aprobación de las soluciones."
+      },
+      {
+        "code": "RA17",
+        "description": "Comprende un amplio rango de herramientas, instrumentos, equipos y aparatos especializados que los estudiantes deben estar en capacidad de utilizar. Identifica las técnicas necesarias para la aplicación en la resolución de problemas de su profesión incluyendo software computacional, y la utilización de recursos que figuran en bibliotecas especializadas y en buscadores de literatura especializa"
+      },
+      {
+        "code": "RA18",
+        "description": "Aplica tecnologías informáticas para la gestión y administración de Base de Datos."
+      },
+      {
+        "code": "RA19",
+        "description": "Adquiere una visión global a corto y mediano plazos sobre los aspectos básicos de la ingeniería."
+      },
+      {
+        "code": "RA20",
+        "description": "Utilizar eficientemente las tecnologías de seguridad y redes para asegurar la disponibilidad de los sistemas, mitigar riesgos y prevenir ataques externos e internos, analiza y evalúa los resultados luego de un ataque (Itinerario redes)."
+      },
+      {
+        "code": "RA21",
+        "description": "Obtendrán y realizarán valoraciones de la información científica y técnica necesaria en los diferentes idiomas especialmente en español e inglés apoyándose en la utilización de los recursos informáticos que se generan sistemáticamente."
+      },
+      {
+        "code": "RA22",
+        "description": "Serán capaces de analizar e identificar problemas de ingeniería, reconocer sus especificaciones, establecer diferentes métodos de resolución y seleccionar el más adecuado para su solución, teniendo en cuenta los aspectos éticos, legales, de seguridad y responsabilidad profesional, así como también las limitaciones sociales, de salud humana, medio ambiente, y comerciales aplicables en cada caso"
+      },
+      {
+        "code": "RA23",
+        "description": "Utilizan eficientemente las tecnologías de bases de datos para asegurar la disponibilidad de la información mediante una adecuada gestión de los gestores de bases de datos orientados a servicios y nuevas tendencias en la gestión de la información"
+      },
+      {
+        "code": "RA24",
+        "description": "Desarrolla actitudes de transformación profesional con el compromiso del aprendizaje a lo largo de la vida. Identifica y reconoce las oportunidades de aprendizaje necesarias para el desarrollo y mejoramiento continuo en el campo de conocimiento relacionado a su profesión y para establecer y seguir sus propias estrategias a nivel general para continuar aprendiendo a lo largo de su vida"
+      },
+      {
+        "code": "RA25",
+        "description": "Dirigir proyectos de Tecnologías de Información para contribuir a la productividad y logro de los objetivos estratégicos de las organizaciones utilizando las metodologías apropiadas"
+      },
+      {
+        "code": "RA26",
+        "description": "Evaluar sistemas de Tecnologías de Información para establecer acciones de mejora e innovación en las organizaciones mediante el uso de metodologías para auditoría."
+      }
+    ],
+    "TEL": [
+      {
+        "code": "RA1",
+        "description": "El profesional graduado en Telecomunicaciones tendrá los conocimientos metodológicos investigativos para analizar sistemas de telecomunicación y la capacidad para identificar las oportunidades de aprendizaje continuo para el desarrollo, crecimiento y mejoramiento profesional tanto en beneficio de la comunidad como personal y familiar"
+      },
+      {
+        "code": "RA2",
+        "description": "El ingeniero graduado en Telecomunicaciones tendrá las capacidades cognitivas para resolver problemas propios de la profesión a partir de la relación teoría- práctica interdisciplinar, de forma autónoma y flexible, aplicando el manejo de las NTIC’s y software de simulación para electrónicos como una herramienta práctica para análisis, diseño, implementación, investigación de sistemas de telecomunicación"
+      },
+      {
+        "code": "RA3",
+        "description": "Gestión del Talento Humano, el profesional graduado en Telecomunicaciones tendrá las habilidades y las destrezas que le permita trabajar en proyectos de sistemas de comunicaciones que garanticen las condiciones para asegurar una vida digna a los grupos sociales más desfavorecidos, contribuyendo al Buen Vivir de todos sus conciudadanos, en respeto a los ejes de igualdad y ambiente, y les permita desarrollar   proyectos de Telecomunicaciones involucrando a la comunidad en forma activa y contribuir al acceso al Internet y contribuir a incrementar el Alfabetismo Digital en la región del país."
+      },
+      {
+        "code": "RA4",
+        "description": "Desarrolla   proyectos de Telecomunicaciones involucrando a la comunidad en forma activa y contribuir al acceso al Internet y contribuir a incrementar el Alfabetismo Digital en la región del país."
+      },
+      {
+        "code": "RA5",
+        "description": "Relaciona diversas teorías socio-antropológicas, psicopedagógicas y ético- profesionales con situaciones hechos y fenómenos educativos y sociales propios del área de telecomunicaciones para lo cual utiliza diversos lenguajes para comprender y expresar sus ideas y pensamientos para la construcción de nuevos aprendizajes tecnológicos."
+      },
+      {
+        "code": "RA6",
+        "description": "Capacidad para identificar y evaluar el riesgo de su área de trabajo y de la organización, empleando técnicas y métodos que permitan elevar la producción y la productividad sin afectar el medio ambiente."
+      },
+      {
+        "code": "RA7",
+        "description": "Idoneidad para realizar una tarea o desempeñar un puesto de trabajo eficazmente, por poseer las competencias requeridas para ello."
+      },
+      {
+        "code": "RA8",
+        "description": "Indagación, interpretación, argumentación y sistematización de la información y las prácticas, permitiéndoles a los profesionales en formación para diseñar e implementar sistemas de telecomunicaciones."
+      },
+      {
+        "code": "RA9",
+        "description": "El profesional graduado en Telecomunicaciones tiene las habilidades y las destrezas para transmitir ideas en forma clara y precisa para el mejoramiento de la información que requiera el equipo de trabajo, motivando a sus compañeros para el mejoramiento y crecimiento profesional, esto es siendo parte integrante de equipos multi, inter y transdisciplinarios, desde una visión ecológica de los saberes."
+      },
+      {
+        "code": "RA10",
+        "description": "Los Ingenieros en Telecomunicaciones tendrán las habilidades y las destrezas que le permita diseñar e implementar proyectos de sistemas de comunicaciones, así como tendrá la capacidad para identificar y evaluar el riesgo de su área de trabajo y de la organización, empleando técnicas y métodos que permitan elevar la producción y la productividad sin afectar el medio ambiente. Habilidad para comunicarse en el idioma inglés como medio de interrelación profesional con el contexto ecuatoriano, latinoamericano y mundial."
+      },
+      {
+        "code": "RA11",
+        "description": "Genera y evalúa proyectos de telecomunicaciones en el sector público y privado, a través del diseño del perfil, elaboración y evaluación, determinando su factibilidad económica, financiera, técnica y ambiental, para su gestión según los requerimientos de los clientes"
+      },
+      {
+        "code": "RA12",
+        "description": "Investiga la realidad y dinámica de las telecomunicaciones, mediante el estudio de la base teórica de la problemática, la selección, utilización e interpretación de indicadores locales, regionales, nacionales, e internacionales."
+      },
+      {
+        "code": "RA13",
+        "description": "Diseña y evalúa los sistemas de telecomunicaciones, en los organismos e instituciones del estado a nivel nacional, regional y local, mediante el estudio de las nuevas tecnologías y elabora proyectos con soluciones técnicas y económicamente competitivas, buscando la maximización del bienestar social"
+      },
+      {
+        "code": "RA14",
+        "description": "Propone planes en lo público y privado, a nivel empresarial, local y regional mediante el diagnóstico de necesidades, definiendo ejes estratégicos, recursos, objetivos y metas, para contribuir al crecimiento y desarrollo sostenible de los sistemas de telecomunicaciones"
+      },
+      {
+        "code": "RA15",
+        "description": "Realiza análisis en el área técnica y económica en los sectores públicos y privados, mediante la recopilación de información técnica - económica para el desarrollo del análisis cualitativo y cuantitativo, como base para interpretar resultados y la toma de decisiones."
+      },
+      {
+        "code": "RA16",
+        "description": "Desarrolla consultoría y asesoría técnica y económica en el sector público y privado, elaborando y revisando los dispositivos de un sistema de telecomunicaciones, como base para suscribir el contrato, para proceder al diagnóstico, planificación y ejecución, a fin de elaborar el informe preliminar y final con los productos esperados por el requirente"
+      },
+      {
+        "code": "RA17",
+        "description": "Interpretarán y aplicarán las técnicas y tecnologías más adecuadas en las condiciones ecuatorianas que contribuyan a alcanzar la eficiencia, eficacia y competitividad de la organización, así como el desarrollo sostenible, especialmente en los ahorros energéticos y en la preservación del ecosistema"
+      },
+      {
+        "code": "RA18",
+        "description": "Analizarán el impacto local y global de las Telecomunicaciones sobre individuos, organizaciones y la sociedad para garantizar el buen vivir de la sociedad"
+      },
+      {
+        "code": "RA19",
+        "description": "Serán capaces de analizar e identificar problemas de ingeniería, reconocer sus especificaciones, establecer diferentes métodos de resolución y seleccionar el más adecuado para su solución, teniendo en cuenta los aspectos éticos, legales, de seguridad y responsabilidad profesional, así como también las limitaciones sociales, de salud humana, medio ambiente, y comerciales aplicables en cada caso"
+      },
+      {
+        "code": "RA20",
+        "description": "Diseñarán soluciones con rigor científico que demuestren sus capacidades de razonamiento y creatividad; además diagnosticarán las situaciones existentes y los posibles escenarios futuros de realización con la severidad metodológica que las investigaciones de su campo de acción requiere"
+      },
+      {
+        "code": "RA21",
+        "description": "Diseñarán soluciones con lineamientos investigativos y científico que demuestren las capacidades de razonamiento y creatividad; además analizar escenarios futuros para la realización de las investigaciones de su campo de acción requiere"
+      },
+      {
+        "code": "RA22",
+        "description": "Aplicarán en su práctica profesional el cumplimiento riguroso de las legislaciones, normas y código de conducta demostrando capacidades para la comunicación oral y escrita"
+      },
+      {
+        "code": "RA23",
+        "description": "Serán capaces de utilizar distintos métodos para comunicarse de forma efectiva con la comunidad de ingenieros y con la sociedad en general"
+      },
+      {
+        "code": "RA24",
+        "description": "Examinarán los procesos con un enfoque cultural, social, político, económico, ambiental y tecnológico sustentado en la primacía de los intereses sociales y nacionales sobre los particulares y con actuaciones éticas y morales propias de un Ingeniero en Telecomunicaciones comprometido con la sociedad y su país"
+      }
+    ]
+  },
+  "subjects": {
+    "AR": [
+      "CÁLCULO I",
+      "FUNDAMENTOS DE PROGRAMACIÓN",
+      "MECÁNICA BÁSICA",
+      "INTRODUCCIÓN A LA AUTOMATIZACIÓN Y ROBÓTICA",
+      "ÁLGEBRA LINEAL",
+      "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "TECNOLOGÍAS DEL APRENDIZAJE Y EL CONOCIMIENTO (TAC)",
+      "CÁLCULO II",
+      "PROGRAMACIÓN AVANZADA",
+      "FÍSICA APLICADA",
+      "DISPOSITIVOS Y MEDIDAS",
+      "GESTIÓN AMBIENTAL",
+      "ESTÁTICA Y DINÁMICA",
+      "ECUACIONES DIFERENCIALES",
+      "SOFTWARE DE SIMULACIÓN",
+      "MÉTODOS NUMÉRICOS",
+      "CIRCUITOS ELÉCTRICOS",
+      "SEGURIDAD INDUSTRIAL",
+      "PROBABILIDAD Y ESTADÍSTICA",
+      "SEÑALES Y SISTEMAS",
+      "GESTIÓN DE CALIDAD",
+      "TEORÍA ELECTROMAGNÉTICA",
+      "CIRCUITOS ELECTRÓNICOS",
+      "INSTALACIONES ELÉCTRICAS",
+      "MECANISMOS",
+      "SISTEMAS DE CONTROL",
+      "ELECTRÓNICA DE POTENCIA",
+      "REALIDAD NACIONAL",
+      "SISTEMAS DIGITALES",
+      "MÁQUINAS ELÉCTRICAS",
+      "INDUSTRIA 4.0",
+      "INSTRUMENTACIÓN INDUSTRIAL",
+      "CONTROL NEUMÁTICO E HIDRÁULICO",
+      "LEGISLACIÓN LABORAL",
+      "SISTEMAS EMBEBIDOS",
+      "PLC´S",
+      "PROCESOS DE MANUFACTURA",
+      "REDES INDUSTRIALES",
+      "ROBÓTICA INDUSTRIAL",
+      "MECATRÓNICA",
+      "CONTROL AVANZADO",
+      "INGENIERÍA ASISTIDA POR COMPUTADOR (SISTEMAS CAD/CAM/CAE)",
+      "PROGRAMACIÓN DE ROBOTS INDUSTRIALES",
+      "INTEGRACIÓN DE SISTEMAS MECATRÓNICOS Y ROBÓTICOS",
+      "EMPRENDIMIENTO",
+      "DISEÑO DE PROYECTOS",
+      "SISTEMAS CIBERFÍSICOS",
+      "AUTOMATIZACIÓN AVANZADA",
+      "DESARROLLO DE PROYECTOS"
+    ],
+    "II": [
+      "QUÍMICA",
+      "FÍSICA BÁSICA",
+      "ÁLGEBRA",
+      "INTRODUCCIÓN A LA INGENIERÍA INDUSTRIAL",
+      "LÓGICA MATEMÁTICA",
+      "TECNOLOGÍAS DE LA INFORMACIÓN Y DE LA COMUNICACIÓN (TIC)",
+      "FÍSICA APLICADA",
+      "CÁLCULO DIFERENCIAL",
+      "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "REALIDAD NACIONAL",
+      "ÁLGEBRA LINEAL",
+      "PROGRAMACIÓN",
+      "ESTADÍSTICA Y PROBABILIDADES",
+      "TERMODINÁMICA",
+      "ELECTRÓNICA Y ELECTRICIDAD",
+      "INVESTIGACIÓN DE OPERACIONES",
+      "TECNOLOGÍA DE MATERIALES",
+      "CÁLCULO INTEGRAL",
+      "CONTABILIDAD Y COSTOS INDUSTRIALES",
+      "DIBUJO ASISTIDO POR COMPUTADOR",
+      "INGENIERÍA DE MÉTODOS",
+      "MÁQUINAS ELÉCTRICAS",
+      "OPERACIONES UNITARIAS",
+      "SEGURIDAD INDUSTRIAL",
+      "ADMINISTRACIÓN DE LA PRODUCCIÓN",
+      "ERGONOMÍA",
+      "GESTIÓN DE OPERACIONES",
+      "INSTRUMENTACIÓN INDUSTRIAL",
+      "MÁQUINAS HERRAMIENTAS",
+      "PROCESOS INDUSTRIALES",
+      "CONTROL NEUMÁTICO Y OLEOHIDRÁULICA",
+      "DISEÑO Y ORGANIZACIÓN DE PLANTAS",
+      "GESTIÓN AMBIENTAL Y ENERGÍAS ALTERNATIVAS",
+      "GESTIÓN POR PROCESOS",
+      "HIGIENE INDUSTRIAL",
+      "SISTEMAS CAD/CAM",
+      "CONTROL DE CALIDAD",
+      "EMPRENDIMIENTO E INNOVACIÓN",
+      "GERENCIA EMPRESARIAL",
+      "GESTIÓN DEL MANTENIMIENTO",
+      "INSTRUMENTACIÓN VIRTUAL",
+      "AUTOMATIZACIÓN INDUSTRIAL Y ROBÓTICA",
+      "DISEÑO DE PROYECTOS",
+      "GESTIÓN DE CALIDAD",
+      "LOGÍSTICA Y CADENA DE ABASTECIMIENTO",
+      "SIMULACIÓN Y LABORATORIO",
+      "DESARROLLO DE PROYECTOS"
+    ],
+    "SW": [
+      "FÍSICA",
+      "ÁLGEBRA LINEAL",
+      "CÁLCULO DIFERENCIAL",
+      "ALGORITMOS Y LÓGICA DE PROGRAMACIÓN",
+      "LÓGICA MATEMÁTICA",
+      "FUNDAMENTOS DE INGENIERÍA DE SOFTWARE",
+      "CÁLCULO INTEGRAL",
+      "PROGRAMACIÓN ORIENTADA A OBJETOS",
+      "SISTEMAS OPERATIVOS",
+      "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "MÉTODOS NUMÉRICOS",
+      "ESTRUCTURA DE DATOS",
+      "PROBABILIDAD Y ESTADÍSTICA",
+      "INTRODUCCIÓN A REDES",
+      "MODELAMIENTO Y DISEÑO DE SOFTWARE",
+      "METOLOGÍAS ÁGILES",
+      "REDES",
+      "BASE DE DATOS",
+      "COMPUTACIÓN VISUAL",
+      "MANEJO Y CONFIGURACIÓN DEL SOFTWARE",
+      "INVESTIGACIÓN OPERATIVA",
+      "SISTEMAS DE SOPORTE DE DECISIONES",
+      "PATRONES DE SOFTWARE",
+      "APLICACIONES ORIENTADAS A SERVICIOS",
+      "INTERACCIÓN HUMANO/COMPUTADOR",
+      "INTELIGENCIA DE NEGOCIOS",
+      "APLICACIONES WEB Y MÓVILES",
+      "APLICACIONES DISTRIBUIDAS",
+      "GESTIÓN DE PRUEBAS E IMPLANTACIÓN DE SOFTWARE",
+      "REALIDAD NACIONAL",
+      "DESARROLLO ASISTIDO POR SOFTWARE",
+      "AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+      "GESTIÓN DE PROYECTOS DE SOFTWARE",
+      "GESTIÓN DE CALIDAD DEL SOFTWARE",
+      "INTELIGENCIA ARTIFICIAL",
+      "EMPRENDIMIENTO Y LEGISLACIÓN LABORAL",
+      "SEGURIDAD EN EL DESARROLLO DEL SOFTWARE",
+      "INGENIERÍA ECONÓMICA PARA SOFTWARE",
+      "DISEÑO DE PROYECTOS",
+      "DESARROLLO DE PROYECTOS"
+    ],
+    "TI": [
+      "ÁLGEBRA LINEAL",
+      "FUNDAMENTOS DE PROGRAMACIÓN",
+      "CÁLCULO DIFERENCIAL",
+      "FÍSICA",
+      "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "CÁLCULO INTEGRAL",
+      "LÓGICA MATEMÁTICA",
+      "MEDIDAS ELÉCTRICAS",
+      "ESTRUCTURA DE DATOS",
+      "REALIDAD NACIONAL",
+      "PROGRAMACIÓN ORIENTADA A OBJETOS",
+      "PROGRAMACIÓN AVANZADA",
+      "PROBABILIDAD Y ESTADÍSTICA",
+      "SISTEMAS OPERATIVOS",
+      "FUNDAMENTOS DE BASES DE DATOS",
+      "FUNDAMENTOS DE REDES Y COMUNICACIÓN DE DATOS",
+      "MÉTODOS NUMÉRICOS",
+      "INGENIERÍA DE SOFTWARE",
+      "INTERACCIÓN HOMBRE MÁQUINA",
+      "ADMINISTRACIÓN DE SISTEMAS OPERATIVOS",
+      "GESTIÓN DE BASES DE DATOS",
+      "SISTEMAS DE BASES DE DATOS DISTRIBUIDOS",
+      "TECNOLOGÍAS Y DESARROLLO WEB",
+      "INVESTIGACIÓN OPERATIVA",
+      "CONMUTACIÓN Y ENRUTAMIENTO BÁSICO",
+      "GESTIÓN Y EVALUACIÓN DE PROYECTOS TI",
+      "ADMINISTRACIÓN DE BASES DE DATOS",
+      "SISTEMAS DE SOPORTE DE DECISIONES",
+      "CONMUTACIÓN Y ENRUTAMIENTO AVANZADO",
+      "GOBIERNOS TI",
+      "APLICACIONES MÓVILES",
+      "INTELIGENCIA DE NEGOCIOS",
+      "EMPRENDIMIENTO Y GESTIÓN FINANCIERA DE TI",
+      "ARQUITECTURA Y PLATAFORMAS DE SERVIDORES",
+      "ADMINISTRACIÓN DE REDES",
+      "INTEGRACIÓN DE SISTEMAS",
+      "SEGURIDAD DE LA INFORMACIÓN EN REDES DE COMUNICACIÓN DE DATOS",
+      "AUDITORIA DE TI",
+      "DISEÑO DE PROYECTOS",
+      "DESARROLLO DE PROYECTOS"
+    ],
+    "TEL": [
+      "CÁLCULO DE UNA VARIABLE",
+      "METODOLOGÍA DE LA INVESTIGACIÓN",
+      "FÍSICA BÁSICA",
+      "ÁLGEBRA LINEAL",
+      "TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN (TIC)",
+      "QUÍMICA",
+      "CÁLCULO DE VARIAS VARIABLES",
+      "FÍSICA APLICADA",
+      "FUNDAMENTOS DE PROGRAMACIÓN",
+      "BASE DE DATOS",
+      "EVOLUCIÓN DE LAS TELECOMUNICACIONES",
+      "GESTIÓN DE CALIDAD",
+      "FÍSICA PARA ELECTRÓNICA",
+      "ECUACIONES DIFERENCIALES",
+      "PROBABILIDAD Y ESTADÍSTICA",
+      "DISPOSITIVOS Y MEDIDAS",
+      "PROGRAMACIÓN AVANZADA",
+      "MÉTODOS NUMÉRICOS",
+      "SISTEMAS LINEALES",
+      "ANÁLISIS DE CIRCUITOS",
+      "SOFTWARE DE SIMULACIÓN",
+      "ELECTROMAGNETISMO",
+      "SISTEMAS DIGITALES",
+      "CIRCUITOS ELECTRÓNICOS",
+      "PROCESOS ESTOCÁSTICOS",
+      "REALIDAD NACIONAL",
+      "SISTEMAS EMBEBIDOS (VLSI)",
+      "LEGISLACIÓN LABORAL",
+      "COMUNICACIÓN ANALÓGICA",
+      "LÍNEAS DE TRANSMISIÓN",
+      "PROCESAMIENTO DIGITAL DE SEÑALES E IMÁGENES",
+      "PROYECTOS DE TELECOMUNICACIONES",
+      "REDES DE DATOS",
+      "SISTEMAS DE TELEFONÍA",
+      "COMUNICACIÓN DIGITAL",
+      "CIRCUITOS RF",
+      "PROPAGACIÓN Y ANTENAS",
+      "CONMUTACIÓN Y ENRUTAMIENTO DE REDES",
+      "SISTEMAS INALÁMBRICOS",
+      "COMUNICACIONES MÓVILES",
+      "COMUNICACIONES ÓPTICAS",
+      "TELEVISIÓN DIGITAL",
+      "SISTEMAS SATELITALES Y GPS",
+      "COMUNICACIONES AVANZADAS",
+      "DISEÑO DE PROYECTOS",
+      "DESARROLLO DE PROYECTOS"
+    ]
+  },
+  "hierarchy": [
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Construcción, estructuras, vías, tránsito y transporte",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Desarrollo y ordenamiento Territorial",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Energía, Desarrollo Sostenible y Gestión de Recursos Naturales",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Ingeniería Civil y Mecánica",
+      "line": "Salud y Bienestar",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Infraestructura De TI"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Ciberseguridad Y Protección De La Información"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Sistemas Distribuidos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Optimización De Recursos TI"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Base De Datos Y Análisis De Datos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Sistemas De Información Y/O  Toma De Decisiones"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Gerencia, Administración, Auditoria Y Proyectos De TI"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Internet De Las Cosas(Iot) Y Sistemas Embebidos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Desarrollo De Software"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Adaptación E Innovación Tecnológica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Inteligencia Artificial"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Arquitectura De Software"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Ingeniería De Software"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Seguridad De Software"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Lenguajes De Programación Y Paradigmas"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Gerencia, Administración, Auditoria Y Proyectos De Software"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Calidad Del Software"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Realidad Aumentada Y Realidad Virtual"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Tecnologías Emergentes Y Disruptivas"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Optimización De Algoritmos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Edge Computing, Internet De Las Cosas(Iot) Y Sistemas Embebidos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Software, Tecnologías de la Información y Ciencia de Datos",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Comunicaciones Alámbricas e Inalámbricas"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Transmisión y Ciencia de Datos rn Telecomunicaciones"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Seguridad en Redes de Telecomunicaciones"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Protocolos, Estándares y Redes de Comunicación"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Procesamiento de Señales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Diseño de Circuitos Aplicados a Telecomunicaciones"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Tecnologias Móviles y Redes de Nueva Generación (NGN)"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Regulación y Gestión en Telecomunicaciones"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Robótica Industrial y Colaborativa"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Sistemas Robóticos Móviles"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Inteligencia Artificial para Percepción y Control de Sistemas Robóticos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Sistemas Autónomos y Automatización en Ambientes No Estructurados"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Optimización Energética en Sistemas Automatizados"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Modelado y Simulación de Sistemas Físicos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Conectividad Industrial y de Sistemas"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Gestión y Supervisión de Sistemas Automatizados"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Automatización de Procesos  y Tecnologías Emergentes en la Industria"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Ingeniería en Sistemas, Electrónica e Industrial",
+      "line": "Electrónica, Telecomunicaciones y Sistemas de Control",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Arquitectura, construcción, territorio y paisaje",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño de  Procesos de Producción"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Automatización de Procesos y Tecnologías Emergentes en la Industria"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Prevención de Enfermedades, Accidentes y Lesiones Laborales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Responsabilidad Social, Sostenibilidad y Producción Mas Limpia"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Sistemas Integrados de Gestión"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Análisis de Costos y Control Financiero"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Optimización De Procesos Productivos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Gestión Y Optimización De Sistemas Logísticos"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño, Innovación y Creatividad"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño para la Sociedad, Identidad y Patrimonio"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño para la Industria, Desarrollo del Producto y Sistemas de Producción"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño y Tecnología, Materiales, Fabricación, Inteligencia Artificial y Diseño Generativo"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño y Procesos Sostenibles, Regeneración, Compostaje y Economía Circular"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño para la Salud"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Estrategias, Planes y Proyectos de Diseño, Comunicación, Mercadeo y Servicios"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Teorías, Métodos, Técnicas y Estrategias Didácticas para el Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Hidráulica"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Vías"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Estructuras"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Gestión ambiental"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Diseño"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Energía"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Materiales"
+    },
+    {
+      "domain": "Optimización de los Sistemas Productivos, Diseño y Desarrollo Urbanístico",
+      "faculty": "Facultad de Diseño y Arquitectura",
+      "line": "Diseño, materiales, producción, identidad,sostenibilidad y tecnologías aplicadas",
+      "subline": "Manufactura"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Alimentación y Costumbre ancestral"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Anestesia y otras relacionadas"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Condiciones crónicas no transmisibles"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Condiciones infecciosas y transmisibles"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Discapacidad y calidad de vida"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Educación en Salud"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Enfermedades crónicas no transmisibles"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Enfermedades infecciosas y transmisibles"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Factores de riesgo"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Farmacología, Toxicología y enfermería ancestral"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Farmacología, Toxicología y medicina ancestral"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Lesiones"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Lesiones, accidentes y violencia"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Monitoreo Hemodinámico"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Nutrición y calidad de vida"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Prevención de enfermedades"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Prevención del delirium en la UCI"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Promoción de la Salud y prevención de enfermedades"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Pronóstico y Manejo del Shock Séptico"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Resistencia a antimicrobianos"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Salud colectiva y determinantes de salud"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Salud digital"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Salud mental"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Salud Pública y Epidemiología"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Sistemas de salud"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Técnicas quirúrgicas y manejo del dolor"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Trastorno materno infantiles"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias de la Salud",
+      "line": "Salud Humana y Bienestar",
+      "subline": "Ventilación Mecánica y Estrategias de Destete"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Enfermedades infecciosas, parasitarias y zoonóticas"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Epidemiología veterinaria, vigilancia sanitaria y bioseguridad animal"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Diagnóstico clínico, laboratorial, molecular e imagenológico"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Medicina preventiva, terapéutica y uso racional de medicamentos veterinarios"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Bienestar animal, etología clínica y manejo humanitario"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Reproducción, salud reproductiva y manejo de poblaciones animales"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Medicina de la conservación y manejo de fauna silvestre"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Salud Animal",
+      "subline": "Innovación en salud digital veterinaria, biomarcadores y monitoreo sanitario animal"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Sistemas alimentarios innovadores"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Agricultura ancestral, interculturalidad y saberes agroalimentarios locales"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Producción sostenible de alimentos de origen vegetal y animal"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Producción animal de granja, salud, bienestar, inocuidad pecuaria e innovación"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Conservación y uso sostenible de recursos genéticos agropecuarios"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Impacto del cambio climático en la seguridad y soberanía alimentaria"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Producción agroecológica y resiliencia climática"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Inocuidad, calidad y trazabilidad alimentaria"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Innovación tecnológica, granjas inteligentes y sistemas agropecuarios de precisión"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencias Agropecuarias",
+      "line": "Seguridad, Soberanía e Innovación Alimentaria",
+      "subline": "Análisis de políticas públicas en seguridad, soberanía e innovación alimentaria"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Diseño y Desarrollo de Procesos y Productos Agroindustriales"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Sostenibilidad en Sistemas Agroalimentarios"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Innovación y Transferencia Tecnológica en la Agroindustria"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Revalorización y Aprovechamiento de Materias Primas"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Prevención Ambiental y Biorremediación"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Producción Agroalimentaria Sostenible"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Inteligencia Artificial para la Producción Agroalimentaria y Medio Ambiente"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Producción Agroalimentaria y Medio Ambiente",
+      "subline": "Cambio Climático en la Producción Agropecuaria"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Ecología y Biotecnología Microbiana"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Biotecnología Ambiental"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Biotecnología Industrial, Enzimática, Farmacéutica y Biomédica"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Biotecnología Aplicada a los Ámbitos Pecuario y Vegetal"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Biología Computacional"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Resistencia Antimicrobiana"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Microbiología de Alimentos e Industrial"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Microbiología y Biología molecular"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Biotecnología Aplicada al mejoramiento genético"
+    },
+    {
+      "domain": "Sistemas Alimentarios, Nutrición y Salud",
+      "faculty": "Ciencia e Ingeniería en Alimentos",
+      "line": "Microbiología y Biotecnología",
+      "subline": "Producción Sostenible y Biotecnología Agropecuaria"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Desarrollo Sostenible e Innovación Empresarial",
+      "subline": "Comportamiento Organizacional"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Desarrollo Sostenible e Innovación Empresarial",
+      "subline": "Estrategias Empresariales"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Desarrollo Sostenible e Innovación Empresarial",
+      "subline": "Negocios Sostenibles e Innovación"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Desarrollo Sostenible e Innovación Empresarial",
+      "subline": "Operaciones y Logística"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Desarrollo Sostenible e Innovación Empresarial",
+      "subline": "Finanzas Empresariales"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Comportamiento del consumidor"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Marketing estratégico"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Análisis de mercado y consumidor en línea"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Marketing de contenidos y experiencia del usuario"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Tendencias de innovación en marketing digital"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Gestión de redes sociales y comunicacionales"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Evaluación y data análisis"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Estrategias SEO y SEM"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Neuromarketing aplicado"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Inteligencia de mercados e innovación comercial",
+      "subline": "Gestión estratégica de marca"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "Analítica digital e inteligencia de mercado"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "Contenidos, branding y comunidades digitales"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "Marketing estratégico digital y performance"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "SEO, visibilidad y adquisición digital"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "CRM, experiencia del cliente y conversión"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "Comercio electrónico, medios de pago y logística digital"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "Innovación, ecosistemas web/móvil y automatización"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Ciencias Administrativas",
+      "line": "Transformación digital del mercado",
+      "subline": "Ética digital"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Economía Internacional"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Microeconomía"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Macroeconomía y economía monetaria"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Métodos matemáticos y cuantitativos"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Salud, educación y bienestar"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Desarrollo económico, cambio tecnológico y crecimiento"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Desarrollo inclusivo"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Sistemas de innovación"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Economía Agraria y de los Recursos Naturales"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Economía del medio ambiente y de la ecología"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Economía del desarrollo",
+      "subline": "Economía Industrial"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Ciencias Contables",
+      "subline": "Contabilidad y Sistemas de Información Financiera"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Ciencias Contables",
+      "subline": "Contabilidad Socio-ambiental"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Ciencias Contables",
+      "subline": "Auditoría y Control"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Ciencias Contables",
+      "subline": "Finanzas y Gestión Empresarial"
+    },
+    {
+      "domain": "Desarrollo Económico, Productivo Empresarial",
+      "faculty": "Contabilidad y Auditoría",
+      "line": "Ciencias Contables",
+      "subline": "Tributación"
+    }
+  ],
+  "scale": {
+    "Investigación": [
+      {
+        "level": 1,
+        "label": "1 - Contribuye",
+        "criterion": "El proyecto se encuentra vinculado a una o más asignaturas y aporta al logro de al menos un resultado de aprendizaje."
+      },
+      {
+        "level": 0,
+        "label": "0 - No contribuye",
+        "criterion": "No se evidencia relación entre el proyecto, las asignaturas y los resultados de aprendizaje, o no existen evidencias documentales que permitan demostrar dicha articulación."
+      }
+    ],
+    "Innovación": [
+      {
+        "level": 1,
+        "label": "1 - Contribuye",
+        "criterion": "El proyecto se encuentra vinculado a una o más asignaturas y aporta al logro de al menos un resultado de aprendizaje."
+      },
+      {
+        "level": 0,
+        "label": "0 - No contribuye",
+        "criterion": "No se evidencia relación entre el proyecto, las asignaturas y los resultados de aprendizaje, o no existen evidencias documentales que permitan demostrar dicha articulación."
+      }
+    ],
+    "Vinculación": [
+      {
+        "level": 1,
+        "label": "1 - Contribuye",
+        "criterion": "El proyecto cuenta con participación estudiantil, se relaciona con asignaturas de la carrera y contribuye al logro de uno o más resultados de aprendizaje."
+      },
+      {
+        "level": 0,
+        "label": "0 - No contribuye",
+        "criterion": "No se evidencia relación entre el proyecto, las asignaturas y los resultados de aprendizaje, o no existen evidencias documentales que permitan demostrar dicha articulación."
+      }
+    ]
+  },
+  "activity_types": [
+    "Investigación",
+    "Vinculación",
+    "Innovación"
+  ]
+}
